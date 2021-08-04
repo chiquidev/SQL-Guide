@@ -13,4 +13,10 @@ Por ejemplo, si queremos obtener un listado con todos los vuelos actuales simple
 
 ```
 SELECT DISTINCT flight from tarjetasEmbarque;
+> Resultado esperado:
+ +----------------------+
+ | Flight               |  
+ +----------------------+
+ | OKL018               | 
+ +----------------------+
 ```
