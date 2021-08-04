@@ -54,10 +54,10 @@ DESC tarjetasEmbarque;
   | Field              |  Type            | Null    | Key   | Default |  Extra    |
   +--------------------+------------------+---------+-------+---------+-----------+
   | Name               |  varchar(20)     | YES     |       | Null    |           |
-  | Surname	           |  varchar(20)     | YES     |       | Null    |           |
-  | Dates 	           |  date            | YES     |       | Null    |           |
-  | Flight 	           |  varchar(20)     | YES     |       | Null    |           |
-  | Gate   	           |  decimal(10,0)   | YES     |       | Null    |           |
+  | Surname	       |  varchar(20)     | YES     |       | Null    |           |
+  | Dates 	       |  date            | YES     |       | Null    |           |
+  | Flight 	       |  varchar(20)     | YES     |       | Null    |           |
+  | Gate   	       |  decimal(10,0)   | YES     |       | Null    |           |
   +--------------------+------------------+---------+-------+---------+-----------+
   5 rows in set (0.00 sec)
 ```
