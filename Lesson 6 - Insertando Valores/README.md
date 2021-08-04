@@ -77,6 +77,6 @@ Finalmente una última consulta que podemos usar con otra sintaxis para insertar
 
 ```
 INSERT INTO tarjetasEmbarque 
-SET Name="Carlos Ipsum", Surname="Ipsum", Date="2021-08-04", Flight="OKL018", Gate=27);
+SET Name="Carlos Ipsum", Surname="Ipsum", Date="2021-08-04", Flight="OKL018", Gate=27;
 > Resultado esperado: Query OK, 1 row affected (0.00 sec)
 ```
