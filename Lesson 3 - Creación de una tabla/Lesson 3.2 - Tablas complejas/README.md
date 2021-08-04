@@ -41,10 +41,10 @@ Ahora contrastaremos la diferencía del uso del comando "DESC" en la lección an
   | Field              |  Type            | Null    | Key   | Default |  Extra    |
   +--------------------+------------------+---------+-------+---------+-----------+
   | Name               |  varchar(20)     | YES     |       | Null    |           |
-  | Surname	           |  varchar(20)     | YES     |       | Null    |           |
-  | Dates 	           |  date            | YES     |       | Null    |           |
-  | Flight 	           |  varchar(20)     | YES     |       | Null    |           |
-  | Gate   	           |  decimal(10,0)   | YES     |       | Null    |           |
+  | Surname	       |  varchar(20)     | YES     |       | Null    |           |
+  | Dates 	       |  date            | YES     |       | Null    |           |
+  | Flight 	       |  varchar(20)     | YES     |       | Null    |           |
+  | Gate   	       |  decimal(10,0)   | YES     |       | Null    |           |
   +--------------------+------------------+---------+-------+---------+-----------+
   5 rows in set (0.00 sec)
   
@@ -54,10 +54,10 @@ Ahora contrastaremos la diferencía del uso del comando "DESC" en la lección an
   +--------------------+------------------+---------+-------+---------+---------------+
   | ID                 |  int(11)         | NO      | Pri   | Null    | auto_incremet |
   | Name               |  varchar(20)     | NO      |       | Null    |               |
-  | Surname	           |  varchar(20)     | NO      |       | Null    |               |
-  | Dates 	           |  date            | NO      |       | Null    |               |
-  | Flight 	           |  varchar(20)     | NO      |       | Null    |               |
-  | Gate   	           |  decimal(10,0)   | NO      |       | Null    |               |
+  | Surname	       |  varchar(20)     | NO      |       | Null    |               |
+  | Dates 	       |  date            | NO      |       | Null    |               |
+  | Flight 	       |  varchar(20)     | NO      |       | Null    |               |
+  | Gate   	       |  decimal(10,0)   | NO      |       | Null    |               |
   +--------------------+------------------+---------+-------+---------+---------------+
   6 rows in set (0.00 sec)
   ```
